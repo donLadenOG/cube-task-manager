@@ -1,178 +1,48 @@
-/* ========== Base ========== */
-.body {
-    font-family: Arial, sans-serif;
-    font-size: small;
-    margin: 0;
-    padding: 0;
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
-
-/* ========== Toolbar ========== */
 .toolbar {
-    background-color: #333;
-    color: white;
-    padding: 10px 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    width: 100%;
-    z-index: 1000;
-    font-size: medium;
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
 }
-
-.toolbar a {
-    text-decoration: none;
-    color: white;
-}
-.toolbar a:hover {
-    text-decoration: underline;
-}
-
-.toolbar-links {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-grow: 1;
-}
-.toolbar-links a {
-    margin: 0 10px;
-}
-.toolbar-links .pipe {
-    margin: 0 10px;
-    font-size: medium;
-}
-
-.toolbar-print {
-    display: flex;
-    align-items: center;
-}
-.toolbar-print a {
-    margin-right: 8px;
-}
-.toolbar-print img {
-    width: 24px;
-    height: 24px;
-    vertical-align: middle;
-    filter: invert(100%);
-    margin-right: 30px;
-}
-
-/* ========== Page Section ========== */
 .section {
-    margin: 40px 20px;
-    padding: 20px;
-    align-content: center;
+  padding: 20px;
 }
-.section h2 {
-    margin-bottom: 10px;
+.placeholder-heading {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
 }
-
-/* ========== Placeholder ========== */
 .content-well {
-    background-color: #fff;
-    padding: 40px;
-    box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
-    border-radius: 10px;
+  padding: 10px;
 }
-
-/* ========== Cube Grid & Cards ========== */
 .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-    gap: 20px;
-    justify-content: start;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
 }
-
 .cube-card {
-    border: 2px solid transparent;
-    border-radius: 10px;
-    padding: 10px;
-    background-color: #f9f9f9;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    line-height: 2.0;
-    text-align: left;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
+  border: 2px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
 }
-
 .cube-card-red {
-    border-color: lightcoral;
-    background-color: rgb(255, 242, 242);
+  background-color: #ffe6e6;
+  border: 2px solid #cc9999; /* darker red */
 }
 
 .cube-card-green {
-    border-color: rgb(108, 200, 108);
-    background-color: rgb(249, 255, 251);
-}
-
-.cube-card h3 {
-    margin: 0;
-    font-size: 1.2em;
-    color: black;
-}
-.cube-card p {
-    margin: 5px 0 0;
-    font-size: 0.9em;
-    color: #555;
+  background-color: #e6ffe6;
+  border: 2px solid #99cc99; /* darker green */
 }
 
 .task-icon {
-    width: 16px;
-    height: 16px;
-    vertical-align: middle;
-    margin-right: 2px;
-}
-
-/* ========== Bar Charts ========== */
-.label {
-    font-weight: bold;
-    font-family: Arial, sans-serif;
-    margin: 20px 0 5px;
-    text-align: center;
-}
-
-.bar-container {
-    width: 100%;
-    height: 40px;
-    display: flex;
-    box-shadow: inset 0 10px 5px rgba(0, 0, 0, 0.3);
-    border: 1px solid #000000;
-    border-radius: 6px;
-    overflow: hidden;
-    font-family: Arial, sans-serif;
-    font-size: 18px;
-}
-
-.bar-needs-prep,
-.bar-needs-cleaning,
-.bar-cleaned {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    color: white;
-    font-weight: bold;
-    background-color: lightgreen;
-    color: darkgreen;
-}
-
-.bar-needs-prep {
-    background-color:rgb(255, 176, 176);
-    color: darkred
-}
-
-.bar-needs-cleaning {
-    background-color:rgb(255, 176, 176);
-    color: darkred
-}
-
-/* .bar-cleaned {
-    background-color: lightgreen;
-    color: darkgreen;
-} */
-
-.bar-text {
-    padding: 0 5px;
-    white-space: nowrap;
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin-right: 5px;
 }
