@@ -4,7 +4,7 @@
     "Order": 0,
     "Tasks": {
       "Cleaned": "05/01/2025",
-      "Prepped": "05/20/2025"
+      "Prepped": null
     }
   },
   {
@@ -1939,7 +1939,7 @@
     "Cube": "243",
     "Order": 242,
     "Tasks": {
-      "Cleaned": "05/20/2025",
+      "Cleaned": null,
       "Prepped": "04/07/2025"
     }
   },
@@ -2083,8 +2083,8 @@
     "Cube": "Ex75",
     "Order": 276,
     "Tasks": {
-      "Prepped": "05/20/2025",
-      "Cleaned": "05/20/2025"
+      "Prepped": null,
+      "Cleaned": null
     }
   }
 ]
