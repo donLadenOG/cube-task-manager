@@ -8,16 +8,28 @@
     {
       "src": "public/**",
       "use": "@vercel/static"
-    },
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
     }
   ],
   "routes": [
     {
       "src": "/api/update",
       "dest": "/api/update.js"
+    },
+    {
+      "src": "/resources/styles.css",
+      "dest": "/public/resources/styles.css",
+      "headers": {
+        "Content-Type": "text/css",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
+    },
+    {
+      "src": "/resources/images/(.*\\.png)",
+      "dest": "/public/resources/images/$1",
+      "headers": {
+        "Content-Type": "image/png",
+        "Cache-Control": "public, max-age=0, must-revalidate"
+      }
     },
     {
       "src": "/(.*)",
