@@ -1,0 +1,44 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.toolbar {
+  background-color: #f0f0f0;
+  padding: 10px;
+  text-align: center;
+}
+.section {
+  padding: 20px;
+}
+.placeholder-heading {
+  font-size: 24px;
+  font-weight: bold;
+  display: block;
+  margin-bottom: 10px;
+}
+.content-well {
+  padding: 10px;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 10px;
+}
+.cube-card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+}
+.cube-card-red {
+  background-color: #ffe6e6;
+}
+.cube-card-green {
+  background-color: #e6ffe6;
+}
+.task-icon {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+  margin-right: 5px;
+}

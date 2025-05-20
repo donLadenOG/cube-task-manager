@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cube Task Manager</title>
+  <link rel="stylesheet" href="/resources/styles.css">
+</head>
+<body>
+  <div class="toolbar">
+    <h1>4821 Cube Tasks</h1>
+  </div>
+  <div class="section">
+    <span class="placeholder-heading">Cube Tasks</span>
+    <div class="content-well">
+      <div class="grid" id="cube-grid">
+        <h3>Loading cubes...</h3>
+      </div>
+    </div>
+  </div>
+  <script>
+    const GITHUB_OWNER = 'donLadenOG'; // Replace with your GitHub username
+    const GITHUB_REPO = 'cube-task-manager'; // Replace with your repository name
+    const GITHUB_PATH = 'data/cube-data.json';
+
+    async function fetchCubes() {
+      try {
+        const response = await fetch(`https://api.github.com/repos/${GITHUB_OWNER}/${GITHUB_REPO}/contents/${GITHUB_PATH}`);
+        if (!response.ok) throw new Error('Failed to fetch cube data');
+        const data = await response.json();
+        const cubes = JSON.parse(atob(data.content));
+        displayCubes(cubes);
+      } catch (err) {
+        document.getElementById('cube-grid').innerHTML = `<h3>Error: ${err.message}</h3>`;
+      }
+    }
+
+    function displayCubes(cubes) {
+      const today = new Date();
+      const cubeHtml = cubes.length === 0
+        ? '<h3>No cubes to display.</h3>'
+        : cubes.map(cube => {
+            const preppedDate = cube.Tasks.Prepped ? new Date(cube.Tasks.Prepped) : null;
+            const cleanedDate = cube.Tasks.Cleaned ? new Date(cube.Tasks.Cleaned) : null;
+            const daysSincePrepped = preppedDate ? Math.floor((today - preppedDate) / (1000 * 60 * 60 * 24)) : null;
+            const daysSinceCleaned = cleanedDate ? Math.floor((today - cleanedDate) / (1000 * 60 * 60 * 24)) : null;
+            const cardClass = daysSincePrepped && daysSincePrepped > 30 ? 'cube-card-red' : 'cube-card-green';
+            const preppedText = !preppedDate ? 'Rented' : daysSincePrepped === 0 ? 'Today' : `${daysSincePrepped} days ago`;
+            const cleanedText = !cleanedDate ? 'Not cleaned' : daysSinceCleaned === 0 ? 'Today' : cube.Tasks.Cleaned;
+            return `
+              <div class="cube-card ${cardClass}">
+                <h3>Cube ${cube.Cube}</h3>
+                <p>
+                  <img src="/resources/images/cube.png" alt="Cube Icon" class="task-icon"> Prepped: ${preppedText}<br>
+                  <img src="/resources/images/door.png" alt="Door Icon" class="task-icon"> Cleaned: ${cleanedText}
+                </p>
+                <div class="mt-2">
+                  <button onclick="updateTask('${cube.Cube}', 'Prepped')" class="bg-blue-500 text-white px-2 py-1 rounded mr-2">Prepped</button>
+                  <button onclick="updateTask('${cube.Cube}', 'Cleaned')" class="bg-green-500 text-white px-2 py-1 rounded">Cleaned</button>
+                </div>
+              </div>`;
+          }).join('');
+      document.getElementById('cube-grid').innerHTML = cubeHtml;
+    }
+
+    async function updateTask(cube, task) {
+      const today = new Date().toLocaleDateString('en-US', {
+        month: '2-digit',
+        day: '2-digit',
+        year: 'numeric'
+      });
+      try {
+        const response = await fetch('/api/update', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ cube, task, date: today })
+        });
+        if (!response.ok) throw new Error('Failed to update task');
+        await fetchCubes();
+        alert(`Updated ${cube} as ${task} on ${today}`);
+      } catch (err) {
+        alert(`Error: ${err.message}`);
+      }
+    }
+
+    fetchCubes();
+  </script>
+</body>
+</html>

@@ -1,0 +1,2090 @@
+[
+  {
+    "Cube": "1",
+    "Order": 0,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "2",
+    "Order": 1,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "3",
+    "Order": 2,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "4",
+    "Order": 3,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "5",
+    "Order": 4,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "6",
+    "Order": 5,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "7",
+    "Order": 6,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "8",
+    "Order": 7,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "9",
+    "Order": 8,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "10",
+    "Order": 9,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "11",
+    "Order": 10,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "12",
+    "Order": 11,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": "05/01/2025"
+    }
+  },
+  {
+    "Cube": "13",
+    "Order": 12,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "14",
+    "Order": 13,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": "04/26/2025"
+    }
+  },
+  {
+    "Cube": "15",
+    "Order": 14,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "16",
+    "Order": 15,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "17",
+    "Order": 16,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "18",
+    "Order": 17,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "19",
+    "Order": 18,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "20",
+    "Order": 19,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "21",
+    "Order": 20,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "22",
+    "Order": 21,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "23",
+    "Order": 22,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "24",
+    "Order": 23,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "25",
+    "Order": 24,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "26",
+    "Order": 25,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "27",
+    "Order": 26,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "28",
+    "Order": 27,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "29",
+    "Order": 28,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "30",
+    "Order": 29,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "31",
+    "Order": 30,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "32",
+    "Order": 31,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "33",
+    "Order": 32,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "34",
+    "Order": 33,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "35",
+    "Order": 34,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "36",
+    "Order": 35,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "37",
+    "Order": 36,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": "05/01/2025"
+    }
+  },
+  {
+    "Cube": "38",
+    "Order": 37,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "39",
+    "Order": 38,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "40",
+    "Order": 39,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "41",
+    "Order": 40,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": "05/01/2025"
+    }
+  },
+  {
+    "Cube": "42",
+    "Order": 41,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "43",
+    "Order": 42,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "44",
+    "Order": 43,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "45",
+    "Order": 44,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "46",
+    "Order": 45,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "47",
+    "Order": 46,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "48",
+    "Order": 47,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "49",
+    "Order": 48,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "50",
+    "Order": 49,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "51",
+    "Order": 50,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "52",
+    "Order": 51,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "53",
+    "Order": 52,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "54",
+    "Order": 53,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "55",
+    "Order": 54,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "56",
+    "Order": 55,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": "05/01/2025"
+    }
+  },
+  {
+    "Cube": "57",
+    "Order": 56,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "58",
+    "Order": 57,
+    "Tasks": {
+      "Cleaned": "05/01/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "59",
+    "Order": 58,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "60",
+    "Order": 59,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "61",
+    "Order": 60,
+    "Tasks": {
+      "Cleaned": "05/02/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "62",
+    "Order": 61,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "63",
+    "Order": 62,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "64",
+    "Order": 63,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "65",
+    "Order": 64,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "66",
+    "Order": 65,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "67",
+    "Order": 66,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "68",
+    "Order": 67,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "69",
+    "Order": 68,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "70",
+    "Order": 69,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "71",
+    "Order": 70,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "72",
+    "Order": 71,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "73",
+    "Order": 72,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "74",
+    "Order": 73,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "75",
+    "Order": 74,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": "05/19/2025"
+    }
+  },
+  {
+    "Cube": "76",
+    "Order": 75,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "77",
+    "Order": 76,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "78",
+    "Order": 77,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "79",
+    "Order": 78,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "80",
+    "Order": 79,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "81",
+    "Order": 80,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "82",
+    "Order": 81,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "83",
+    "Order": 82,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "84",
+    "Order": 83,
+    "Tasks": {
+      "Cleaned": "05/05/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "85",
+    "Order": 84,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "86",
+    "Order": 85,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": "04/30/2025"
+    }
+  },
+  {
+    "Cube": "87",
+    "Order": 86,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "88",
+    "Order": 87,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "89",
+    "Order": 88,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": "04/30/2025"
+    }
+  },
+  {
+    "Cube": "90",
+    "Order": 89,
+    "Tasks": {
+      "Cleaned": "04/30/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "91",
+    "Order": 90,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "92",
+    "Order": 91,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "93",
+    "Order": 92,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "94",
+    "Order": 93,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "95",
+    "Order": 94,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "96",
+    "Order": 95,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "97",
+    "Order": 96,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "98",
+    "Order": 97,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "99",
+    "Order": 98,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "100",
+    "Order": 99,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "101",
+    "Order": 100,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "102",
+    "Order": 101,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": "05/01/2025"
+    }
+  },
+  {
+    "Cube": "103",
+    "Order": 102,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "104",
+    "Order": 103,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "105",
+    "Order": 104,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "106",
+    "Order": 105,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "107",
+    "Order": 106,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "108",
+    "Order": 107,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "109",
+    "Order": 108,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "110",
+    "Order": 109,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "111",
+    "Order": 110,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "112",
+    "Order": 111,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "113",
+    "Order": 112,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "114",
+    "Order": 113,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "115",
+    "Order": 114,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "116",
+    "Order": 115,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "117",
+    "Order": 116,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "118",
+    "Order": 117,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "119",
+    "Order": 118,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "120",
+    "Order": 119,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "121",
+    "Order": 120,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "122",
+    "Order": 121,
+    "Tasks": {
+      "Cleaned": "05/13/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "123",
+    "Order": 122,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "124",
+    "Order": 123,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "125",
+    "Order": 124,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "126",
+    "Order": 125,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "127",
+    "Order": 126,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "128",
+    "Order": 127,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "129",
+    "Order": 128,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "130",
+    "Order": 129,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "131",
+    "Order": 130,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "132",
+    "Order": 131,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "133",
+    "Order": 132,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "134",
+    "Order": 133,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "135",
+    "Order": 134,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "136",
+    "Order": 135,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "137",
+    "Order": 136,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "138",
+    "Order": 137,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "139",
+    "Order": 138,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "140",
+    "Order": 139,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "141",
+    "Order": 140,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "142",
+    "Order": 141,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": "04/07/2025"
+    }
+  },
+  {
+    "Cube": "143",
+    "Order": 142,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "144",
+    "Order": 143,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "145",
+    "Order": 144,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "146",
+    "Order": 145,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "147",
+    "Order": 146,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "148",
+    "Order": 147,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "149",
+    "Order": 148,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "150",
+    "Order": 149,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "151",
+    "Order": 150,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "152",
+    "Order": 151,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "153",
+    "Order": 152,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": "04/25/2025"
+    }
+  },
+  {
+    "Cube": "154",
+    "Order": 153,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "155",
+    "Order": 154,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "156",
+    "Order": 155,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "157",
+    "Order": 156,
+    "Tasks": {
+      "Cleaned": "04/25/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "158",
+    "Order": 157,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "159",
+    "Order": 158,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "160",
+    "Order": 159,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "161",
+    "Order": 160,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "162",
+    "Order": 161,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "163",
+    "Order": 162,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "164",
+    "Order": 163,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "165",
+    "Order": 164,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "166",
+    "Order": 165,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "167",
+    "Order": 166,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "168",
+    "Order": 167,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "169",
+    "Order": 168,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "170",
+    "Order": 169,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "171",
+    "Order": 170,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": "03/15/2025"
+    }
+  },
+  {
+    "Cube": "172",
+    "Order": 171,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "173",
+    "Order": 172,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": "05/08/2025"
+    }
+  },
+  {
+    "Cube": "174",
+    "Order": 173,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "175",
+    "Order": 174,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "176",
+    "Order": 175,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "177",
+    "Order": 176,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "178",
+    "Order": 177,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": "04/07/2025"
+    }
+  },
+  {
+    "Cube": "179",
+    "Order": 178,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "180",
+    "Order": 179,
+    "Tasks": {
+      "Cleaned": "05/07/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "181",
+    "Order": 180,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "182",
+    "Order": 181,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "183",
+    "Order": 182,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "184",
+    "Order": 183,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "185",
+    "Order": 184,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "186",
+    "Order": 185,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "187",
+    "Order": 186,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "188",
+    "Order": 187,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "189",
+    "Order": 188,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "190",
+    "Order": 189,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "191",
+    "Order": 190,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "192",
+    "Order": 191,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "193",
+    "Order": 192,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "194",
+    "Order": 193,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "195",
+    "Order": 194,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "196",
+    "Order": 195,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "197",
+    "Order": 196,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "198",
+    "Order": 197,
+    "Tasks": {
+      "Cleaned": "02/27/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "199",
+    "Order": 198,
+    "Tasks": {
+      "Cleaned": "02/27/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "200",
+    "Order": 199,
+    "Tasks": {
+      "Cleaned": "02/27/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "201",
+    "Order": 200,
+    "Tasks": {
+      "Cleaned": "02/20/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "202",
+    "Order": 201,
+    "Tasks": {
+      "Cleaned": "02/20/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "203",
+    "Order": 202,
+    "Tasks": {
+      "Cleaned": "02/20/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "204",
+    "Order": 203,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "205",
+    "Order": 204,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "206",
+    "Order": 205,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "207",
+    "Order": 206,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "208",
+    "Order": 207,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "209",
+    "Order": 208,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "210",
+    "Order": 209,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "211",
+    "Order": 210,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "212",
+    "Order": 211,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "213",
+    "Order": 212,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "214",
+    "Order": 213,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "215",
+    "Order": 214,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "216",
+    "Order": 215,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "217",
+    "Order": 216,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "218",
+    "Order": 217,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "219",
+    "Order": 218,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "220",
+    "Order": 219,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "221",
+    "Order": 220,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "222",
+    "Order": 221,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": "05/17/2025"
+    }
+  },
+  {
+    "Cube": "223",
+    "Order": 222,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "224",
+    "Order": 223,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "225",
+    "Order": 224,
+    "Tasks": {
+      "Cleaned": "02/21/2025",
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "226",
+    "Order": 225,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "227",
+    "Order": 226,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "228",
+    "Order": 227,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "229",
+    "Order": 228,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "230",
+    "Order": 229,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "231",
+    "Order": 230,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "232",
+    "Order": 231,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "233",
+    "Order": 232,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "234",
+    "Order": 233,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "235",
+    "Order": 234,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "236",
+    "Order": 235,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "237",
+    "Order": 236,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "238",
+    "Order": 237,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "239",
+    "Order": 238,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "240",
+    "Order": 239,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "241",
+    "Order": 240,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "242",
+    "Order": 241,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "243",
+    "Order": 242,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": "04/07/2025"
+    }
+  },
+  {
+    "Cube": "244",
+    "Order": 243,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "245",
+    "Order": 244,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "246",
+    "Order": 245,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "247-248",
+    "Order": 247,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "249",
+    "Order": 249,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "250",
+    "Order": 250,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "251",
+    "Order": 251,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "252",
+    "Order": 252,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "253",
+    "Order": 253,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "254",
+    "Order": 254,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "255",
+    "Order": 255,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "256",
+    "Order": 256,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "257",
+    "Order": 257,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "258",
+    "Order": 258,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "259",
+    "Order": 259,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "260",
+    "Order": 260,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "261",
+    "Order": 261,
+    "Tasks": {
+      "Cleaned": null,
+      "Prepped": null
+    }
+  },
+  {
+    "Cube": "Ex75",
+    "Order": 276,
+    "Tasks": {
+      "Prepped": "05/20/2025",
+      "Cleaned": null
+    }
+  }
+]
